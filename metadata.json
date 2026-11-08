@@ -1,0 +1,6 @@
+{
+  "name": "Pawan Rajput Panel - Gaming Visual Demo",
+  "description": "Interactive Android Jetpack Compose gaming panel simulator with real-time tactical visual demo HUD (AimBot demo, ESP Lines, ESP Boxes, Streamer Mode, Body hitboxes) and full Android Studio project generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
